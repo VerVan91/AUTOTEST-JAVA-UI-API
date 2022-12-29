@@ -1,0 +1,10 @@
+{
+  "base_url": "localhost:8081/",
+  "ui_url_end": "web/",
+  "api_url_start": "http://",
+  "api_url_end": "api/",
+  "login": "",
+  "password": "",
+  "random_string_length": 15,
+  "cookie_parameter": "token"
+}

@@ -1,0 +1,11 @@
+{
+  "variant": 2,
+  "project_name": "Nexage",
+  "SID": "777",
+  "methodName": "TestMethod",
+  "env": "TestEnv",
+  "log": "TestLog",
+  "content_type": "image/png",
+  "column_name": "Latest test start time",
+  "test_name": "Test name"
+}
